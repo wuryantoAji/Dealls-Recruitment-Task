@@ -14,9 +14,3 @@ Start service by using
 
 Run unit test by using
 > go test ./...
-
-## Deployment
-
-
-## Lint
-
